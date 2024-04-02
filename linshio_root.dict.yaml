@@ -1,0 +1,6 @@
+name: linshio_root
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin.shopping
+  - luna_pinyin.history
