@@ -4,7 +4,7 @@ customization:
   generator: "Rime::SwitcherSettings"
   modified_time: "Tue Apr  2 12:29:43 2024"
   rime_version: 1.8.5
-  # 教程 https://zhuanlan.zhihu.com/p/332139327  https://github.com/ssnhd/rime 与 https://blog.csdn.net/qq_42204675/article/details/86422450
+  # 教程 https://gitpress.io/@mikelyou/2020-07-31-rime-input https://zhuanlan.zhihu.com/p/332139327  https://github.com/ssnhd/rime 与 https://blog.csdn.net/qq_42204675/article/details/86422450
 patch:
    # 更改候选词个数
   menu/page_size: 8
